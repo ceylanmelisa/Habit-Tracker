@@ -8,5 +8,7 @@ This is a standalone command-line interface (CLI) application created in Python 
 2. Open your terminal or command prompt.
 3. Navigate to the folder containing the project files.
 4. Run the main application by executing the following command:
-   python main.py
+   ```bash
+python main.py
+```
 5. Follow the interactive menu on the screen to add new habits or list existing ones.
