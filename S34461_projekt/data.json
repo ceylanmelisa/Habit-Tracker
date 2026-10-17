@@ -1,0 +1,20 @@
+[
+    {
+        "name": "writing",
+        "description": "30 pages a day",
+        "creation_date": "2026-06-03",
+        "is_completed": false
+    },
+    {
+        "name": "Yoga",
+        "description": "15 minutes",
+        "creation_date": "2026-06-03",
+        "is_completed": false
+    },
+    {
+        "name": "Book Reading",
+        "description": "20 pages",
+        "creation_date": "2026-06-03",
+        "is_completed": false
+    }
+]
