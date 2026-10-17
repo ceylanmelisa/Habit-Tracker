@@ -10,5 +10,4 @@ This is a standalone command-line interface (CLI) application created in Python 
 4. Run the main application by executing the following command:
    ```bash
 python main.py
-```
-5. Follow the interactive menu on the screen to add new habits or list existing ones.
+```5. Follow the interactive menu on the screen to add new habits or list existing ones.
